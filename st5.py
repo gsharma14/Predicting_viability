@@ -3,7 +3,7 @@ import st6
 import streamlit as st
 import pandas as pd
 import sklearn
-from sklearn.svm import SVC
+#from sklearn.svm import SVC
 from sklearn.linear_model import LogisticRegression
 from sklearn.ensemble import RandomForestClassifier
 from sklearn.neighbors import KNeighborsClassifier
